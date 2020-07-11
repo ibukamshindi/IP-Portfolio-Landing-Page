@@ -1,5 +1,5 @@
 img {
-  float: center;
+  float: right;
 }
 .test-box {
   border: 3px solid rebeccapurple;
@@ -15,6 +15,6 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.5;
   text-align: left;
-  background-color: #ffffff;
+  background-color:whitesmoke;
   font-size: 1rem; ;
 }
