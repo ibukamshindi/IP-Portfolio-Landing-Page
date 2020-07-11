@@ -4,10 +4,6 @@ img {
   margin-right: auto;
   width: 50%;
 }
-.test-box {
-  border: 3px solid rebeccapurple;
-  padding: 10px;
-}
 div {
   margin-top: 100;
   margin-bottom: 100;
@@ -21,4 +17,8 @@ body {
   background-color:whitesmoke;
   font-size: 1rem;
   text-align: justify;
+}
+h1{
+  background: rgba(0, 0, 128, 0.1);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
